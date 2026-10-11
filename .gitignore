@@ -1,0 +1,13 @@
+build*/
+build-windows/
+.vs/
+.vscode/
+*.exe
+*.dll
+*.obj
+*.o
+simulation.csv
+*.zip
+*.user
+kalman_tests
+motion_tests
